@@ -1,2 +1,10 @@
 # requirement.txt
-archivers guideline
+Archivers guideline-
+dedication,
+teamwork,
+aggressive,
+integrity,
+self-competition,
+focus,
+determination,
+hardwork.
