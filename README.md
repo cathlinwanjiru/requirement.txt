@@ -8,3 +8,6 @@ self-competition,
 focus,
 determination,
 hardwork.
+cuisine,
+perfection,
+tasty-delicious.
