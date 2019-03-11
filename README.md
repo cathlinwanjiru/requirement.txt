@@ -8,3 +8,7 @@ self-competition,
 focus,
 determination,
 hardwork.
+
+career,
+passion,
+success
